@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\GradingForm\bin\Debug\GradingForm.exe.config
+C:\Users\User\source\repos\GradingForm\bin\Debug\GradingForm.exe
+C:\Users\User\source\repos\GradingForm\bin\Debug\GradingForm.pdb
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.Form1.resources
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.Form2.resources
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.Properties.Resources.resources
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.exe
+C:\Users\User\source\repos\GradingForm\obj\Debug\GradingForm.pdb
